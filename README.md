@@ -20,4 +20,7 @@ A ***password*** is required to open the zip file. The password is ***the second
     language = {fa_IR}
     }
 
+## Courses that Use this Book
+
+[Taught Fall 2020, BNUT by Dr. Javad Kazemitabar](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D9%85%D8%AA%D9%86-%DA%A9%D8%A7%D9%88%DB%8C-mk1010/)
 
